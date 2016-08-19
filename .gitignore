@@ -1,0 +1,143 @@
+temporary
+
+# Compiled binary directory
+**/build
+**/release
+**/target
+**/dist
+
+## IntelliJ IDEA project directory
+**/.idea
+
+## File-based project format:
+**/*.iws
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+**/com_crashlytics_export_strings.xml
+**/crashlytics.properties
+**/crashlytics-build.properties
+**/fabric.properties
+
+### Windows template
+# Windows image file caches
+**/Thumbs.db
+**/ehthumbs.db
+
+# Folder config file
+**/Desktop.ini
+
+### Eclipse template
+**/.metadata
+**/*.tmp
+**/*.bak
+**/*.swp
+**/*~.nib
+**/.loadpath
+**/.recommenders
+
+# Eclipse Core
+**/.project
+
+# Locally stored "Eclipse launch configurations"
+**/*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+**/*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+**/.cproject
+
+# JDT-specific (Eclipse Java Development Tools)
+**/.classpath
+
+# Java annotation processor (APT)
+**/.factorypath
+
+# PDT-specific (PHP Development Tools)
+**/.buildpath
+
+# sbteclipse plugin
+**/.target
+
+# Tern plugin
+**/.tern-project
+
+# TeXlipse plugin
+**/.texlipse
+
+# STS (Spring Tool Suite)
+**/.springBeans
+
+### Android template
+# Built application files
+**/*.apk
+**/*.ap_
+
+# Files for the ART/Dalvik VM
+**/*.dex
+
+# Java class files
+**/*.class
+
+# Log Files
+**/*.log
+
+# Keystore files
+**/*.jks
+
+# Package Files #
+**/*.jar
+**/*.war
+**/*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+**/hs_err_pid*
+
+**/*.orig
+**/*.iml
+**/*.ipr
+**/*.jasper
+**/.settings
+
+### Node template
+
+# Logs
+**/npm-debug.log*
+
+# Runtime data
+**/pids
+**/*.pid
+**/*.seed
+**/*.csv
+**/*.dat
+**/*.out
+**/*.gz
+**/.DS_Store
+
+# nyc test coverage
+**/.nyc_output
+
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+**/.grunt
+
+# node-waf configuration
+**/.lock-wscript
+
+# Dependency directories
+**/node_modules
+**/jspm_packages
+
+# Optional npm cache directory
+**/.npm
+
+# Optional REPL history
+**/.node_repl_history
+
+### Bower template
+**/bower_components
+
+### Yeoman template
+**/coverage
+
+### etc
+
